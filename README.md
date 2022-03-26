@@ -1,2 +1,2 @@
 # KUKA Robot
-Dynamic Modelling in Simulink
+Dynamic Modelling in Simulink (Iterative + Lagrange)
