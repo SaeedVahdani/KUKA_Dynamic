@@ -1,2 +1,2 @@
-# KUKA_Dynamic
-KUKA
+# KUKA Robot
+Dynamic Modelling in Simulink
